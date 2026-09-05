@@ -1,0 +1,23 @@
+TaskBridge.sln
+|
++-- src
+|   |
+|   +-- TaskBridge.Api
+|       |
+|       +-- Projects
+|       |   +-- Models
+|       |   +-- Repositories
+|       |   +-- Services
+|       |   +-- Controllers
+|       |   +-- Validators
+|       |
+|       +-- Notifications
+|           +-- Models
+|           +-- Repositories
+|           +-- Services
+|           +-- Controllers
+|           +-- Validators
+|
++-- tests
+    |
+    +-- TaskBridge.Tests
